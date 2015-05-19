@@ -1,3 +1,4 @@
 # python
 py_study
-first_gameÖĞ£ºÏÈÔËĞĞgame.py¼´¿É
+##first_game
+		åªè¦è¿è¡Œgame.pyå³å¯å¼€å§‹æ¸¸æˆ
